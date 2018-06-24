@@ -1,0 +1,19 @@
+{
+  "name": "m-tracker-ui",
+  "version": "1.0.0",
+  "description": "M-Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcDalin/m-tracker-ui.git"
+  },
+  "author": "dc_dalin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcDalin/m-tracker-ui/issues"
+  },
+  "homepage": "https://github.com/dcDalin/m-tracker-ui#readme"
+}
